@@ -1,0 +1,23 @@
+1513663054340	Rename field 'button1'
+1513663081669	Extracts string 'null' into R.string.ok
+1513667459706	Rename field 'textView1'
+1513667548799	Delete element
+1513667607120	Extracts string 'null' into R.string.imin
+1513668083387	Extracts string 'null' into R.string.back
+1513751580204	Extracts string 'null' into R.string.showList
+1513753374202	Rename field 'btnToList'
+1513754168909	Rename field 'listView1'
+1513755167679	Rename field 'textView1'
+1513755573381	Rename field 'lstvTest'
+1513764490118	Rename resource 'corners.xml'
+1513837834341	Extracts string 'null' into R.string.dialogTest
+1513838216684	Extract method 'buildAlertDialg'
+1513838264597	Extract method 'buildStartActivity'
+1513838276019	Extract method 'buildShowList'
+1513928037501	Delete element
+1513928043168	Delete element
+1513928185181	Extracts string 'null' into R.string.table
+1513928822973	Delete element
+1513932139784	Move 'editer_text_color.xml' to 'editers'
+1513932407906	Move 'editer_text_color.xml' to 'drawable-mdpi'
+1513932411719	Delete element
